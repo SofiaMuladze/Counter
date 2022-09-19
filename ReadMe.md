@@ -29,4 +29,4 @@
 
 ## _**GitHub Pages**_
 
-### link
+### https://sofiamuladze.github.io/Counter/
