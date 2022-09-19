@@ -75,3 +75,26 @@
       }
    }
 }
+
+@media (max-width: 760px) {
+   body {
+      margin-top: 100px;
+      .counter {
+        max-width: 300px;
+        margin: auto;
+         .value {
+            h2 {
+              font-size: 70px;
+            }
+         }
+         .buttons {
+            .vl {
+              height: 80px;
+            }
+            button {
+              font-size: 100px;
+            }
+         }
+      }
+   }
+}

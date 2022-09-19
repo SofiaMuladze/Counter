@@ -67,4 +67,23 @@ body .reset button {
 }
 body .reset button:hover {
   color: #6B4EFF;
+}
+
+@media (max-width: 760px) {
+  body {
+    margin-top: 100px;
+  }
+  body .counter {
+    max-width: 300px;
+    margin: auto;
+  }
+  body .counter .value h2 {
+    font-size: 70px;
+  }
+  body .counter .buttons .vl {
+    height: 80px;
+  }
+  body .counter .buttons button {
+    font-size: 100px;
+  }
 }/*# sourceMappingURL=style.css.map */
